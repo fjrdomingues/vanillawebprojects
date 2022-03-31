@@ -4,6 +4,8 @@ const rules = document.getElementById('rules');
 const canvas = document.getElementById('canvas');
 const ctx = canvas.getContext('2d');
 
+var a = foo
+
 let score = 0;
 
 const brickRowCount = 9;
